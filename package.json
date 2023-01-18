@@ -3,9 +3,9 @@
 	"version": "1.4.0",
 	"private": true,
 	"homepage": "./",
-	"productName": "爱淘", 
+	"productName": "爱淘",
 	"serverUrl": "http://www.aitaotaoai8.site",
-	"description": "爱淘", 
+	"description": "爱淘",
 	"main": "build/main.js",
 	"author": "un",
 	"build": {
@@ -21,7 +21,6 @@
 				"url": "http://www.aitaotaoai8.site:8083/"
 			}
 		],
-	
 		"asar": false,
 		"mac": {
 			"artifactName": "${name}-${version}-osx.${ext}",
@@ -163,10 +162,10 @@
 		"react-loadable": "5.5.0",
 		"react-markdown": "4.2.2",
 		"react-mentions": "3.1.0",
-		"react-router-dom": "4.3.1",
 		"react-sticky": "6.0.3",
 		"react-virtualized": "9.21.1",
 		"react-zmage": "0.8.3",
+		"react-router-dom": "^5.3.4",
 		"resolve": "1.6.0",
 		"strophe.js": "https://github.com/unsilence/strophejs.git",
 		"systeminformation": "4.23.5",
@@ -183,7 +182,6 @@
 		"@types/node": "11.15.7",
 		"@types/qs": "6.5.3",
 		"@types/react-dom": "16.8.4",
-		"@types/react-router-dom": "4.3.2",
 		"@types/react-sticky": "6.0.3",
 		"@types/socket.io-client": "1.4.32",
 		"@types/strophe.js": "1.2.0",
@@ -251,7 +249,6 @@
 		"whatwg-fetch": "2.0.3",
 		"yamljs": "0.3.0"
 	},
-	
 	"jest": {
 		"collectCoverageFrom": [
 			"src/**/*.{js,jsx,ts,tsx}",

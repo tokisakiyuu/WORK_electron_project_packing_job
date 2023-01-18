@@ -1,7 +1,6 @@
 node_modules
-dist/*
+dist
 .structor
-build/dist
 build
 .vscode
 public/main.js
@@ -11,10 +10,7 @@ noneData.css
 Login.css
 title.css
 src/page/main/Main.css
-src/page/main/Main.css
 ___metaDistr
-.vscode
 history.html
 .DS_Store
-yarn.lock
-package-lock.json
+.gitpod.yml

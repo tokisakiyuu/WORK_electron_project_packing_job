@@ -46,5 +46,8 @@
 		"webpack.prod.config.js",
 		"public",
 		"config-overrides.js"
+	],
+	"include": [
+		"types"
 	]
 }
